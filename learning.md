@@ -1,4 +1,4 @@
-cat > learning.md << 'EOF'
+
 # Summer 2026 Learning Log
 
 A daily log of what I read, built, and understood — and what's still confusing.
