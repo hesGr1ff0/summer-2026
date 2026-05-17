@@ -15,3 +15,11 @@ The chain matters more than any single entry. Three sentences is enough.
 
 **Confused / open:** Still need to pick my research thread tomorrow.
 
+## 2026-05-17 - Day 2: Reading the Review Article
+
+**Did:** Reading the review article on machine learning and cyber security landscape. Getting to know the ropes before I chose which branch I want to dive into this summer.
+
+**Learned:** Learned how to make a push without referring to claude.
+
+**Confused / open:** I need to start my study away application it is due very soon.
+
